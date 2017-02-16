@@ -1,2 +1,2 @@
 # android-client
-Gardion Android client, connecting Android smartphones/tables to the secure internet
+Gardion Android client, connecting Android smartphones/tablets to the secure internet
