@@ -1,3 +1,10 @@
 <resources>
+
     <string name="app_name">Gardion Client</string>
+
+    <!-- General -->
+
+    <!-- Shortcuts -->
+    <string name="shortcut_label_connect">Connect</string>
+
 </resources>
