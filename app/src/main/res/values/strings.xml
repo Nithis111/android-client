@@ -4,6 +4,13 @@
 
     <!-- General -->
 
+    <!-- About -->
+    <string name="about">About</string>
+
+    <!-- Menu -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_about">About</string>
+
     <!-- Shortcuts -->
     <string name="shortcut_label_connect">Connect</string>
 
